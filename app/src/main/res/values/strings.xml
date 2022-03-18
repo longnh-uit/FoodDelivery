@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Food Delivery</string>
+    <string name="search_btn_description">Search</string>
+    <string name="food_image">Food image</string>
+    <string name="food_rating">4</string>
+    <string name="comment_number">1287</string>
+    <string name="comments">comments</string>
+    <string name="popular">Popular</string>
+    <string name="food_pairing">Food pairing</string>
+    <string name="back">Back</string>
+    <string name="shopping">Shoppping</string>
+    <string name="introduce">Introduce</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+    <string name="add_to_card">\$ %1$d | Add to cart</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur in felis sit amet dictum. Suspendisse potenti. Nam nec libero vitae justo iaculis iaculis. Donec non mattis leo. In maximus metus quis mauris mollis varius vel eget justo. Etiam nibh dolor, sagittis sit amet sem vitae, fringilla rhoncus mi. Sed at pellentesque neque. In odio nunc, accumsan ac risus non, aliquet viverra justo. Nullam sed arcu gravida, laoreet augue vel, viverra ipsum. Suspendisse potenti. Mauris ultricies id odio vitae rutrum. Praesent non est vel dolor tempor vehicula. Ut nibh orci, semper sed rutrum euismod, pellentesque sit amet nisi. Etiam lacus.</string>
+    <string name="very_long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elit magna, molestie sit amet iaculis id, auctor quis nunc. Praesent quis posuere lectus. Proin eu tempus diam. Nulla et dolor elit. Aliquam non lorem ac leo lobortis placerat vel at erat. Quisque fermentum, lacus a rutrum egestas, tortor neque dictum lacus, nec sagittis elit ipsum ac leo. Cras molestie enim quis ipsum finibus, porttitor viverra risus aliquet. Sed a odio pretium, mattis nunc aliquam, commodo enim. Mauris sit amet nisl varius, volutpat augue in, scelerisque urna. Suspendisse sodales faucibus auctor. Sed dapibus neque tortor, eget pulvinar nisi tincidunt quis. Morbi orci leo, efficitur convallis tempor at, lobortis et diam. Proin vitae eros sit amet sem bibendum tempus venenatis in lectus. Vestibulum eget rutrum augue, eget aliquam sapien. Nam luctus libero quis gravida bibendum. Quisque vitae cursus dolor, eu tempor arcu.
+Mauris volutpat est risus, nec varius lacus bibendum nec. Nulla congue eros risus, ac sollicitudin purus facilisis in. Aliquam accumsan, sem et maximus sagittis, lectus odio aliquam dolor, nec bibendum odio justo ut quam. Mauris laoreet justo ante, in tempus tortor vehicula id. Ut arcu sapien, commodo in tincidunt ut, egestas et leo. Duis vitae mollis nisl. Maecenas id orci arcu. Maecenas suscipit, ante vitae pretium posuere, urna tortor eleifend nisi, sed tempus nulla augue vitae erat.
+Fusce quis consequat tellus, id tincidunt eros. Nunc ac blandit lacus. Nulla facilisi. Pellentesque vel sagittis est. Suspendisse potenti. Quisque vulputate ac eros id porttitor. Etiam eget rhoncus nulla.</string>
+    <string name="recommended">Recommended</string>
+    <string name="price_with_quantity">$%1$d X %2$d</string>
+    <string name="quantity">%1$d</string>
+    <string name="item_price">$ %1$.1f</string>
+    <string name="check_out">Check out</string>
+    <string name="total_cost">$ %1$d</string>
+    <string name="action_home">Home</string>
+    <string name="action_history">History</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_me">Me</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="cart_history">Cart History</string>
+    <string name="total">Total</string>
+    <string name="items">%1$d Items</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FoodDelivery" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:navigationBarColor">
+            @android:color/transparent
+        </item>
+
+        <!-- Optional, if your app is drawing behind the status bar also. -->
+        <item name="android:statusBarColor">
+            @android:color/transparent
+        </item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="BigText">
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="SmallText">
+        <item name="android:lineSpacingExtra">4sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>
